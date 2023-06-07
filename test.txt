@@ -1,2 +1,2 @@
 hello world
-github에서 수정 local에서 수정
+>>>>>>> 34dfa81ee4b062d1d56a0aaf9a93c9a4289cf90d
